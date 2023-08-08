@@ -1,5 +1,5 @@
 .responsive_image {
-    width:80%;
+    width:450px;
 }
 
 @media screen and (max-width:320px) {
